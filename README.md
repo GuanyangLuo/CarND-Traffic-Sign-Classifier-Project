@@ -20,11 +20,11 @@ The goals / steps of this project are the following:
 [image1]: ./writeup_images/visualization.jpg "Visualization"
 [image2]: ./writeup_images/grayscale.jpg "Grayscaling"
 [image3]: ./writeup_images/jitter.jpg "Jitter"
-[image4]: ../data/web/11.jpg "Right of Way"
-[image5]: ../data/web/12.jpg "Priority"
-[image6]: ../data/web/13.jpg "Yield"
-[image7]: ../data/web/18.jpg "Warning"
-[image8]: ../data/web/25.jpg "Road Work"
+[image4]: ./writeup_images/web/11.jpg "Right of Way"
+[image5]: ./writeup_images/web/12.jpg "Priority"
+[image6]: ./writeup_images/web/13.jpg "Yield"
+[image7]: ./writeup_images/web/18.jpg "Warning"
+[image8]: ./writeup_images/web/25.jpg "Road Work"
 [image9]: ./writeup_images/prediction.jpg "Jitter"
 
 ## Rubric Points
